@@ -13,7 +13,7 @@ Please check my portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/po
 Known on internet as **lucky chauhan**
 
 ![](https://img.icons8.com/bubbles/100/000000/linkedin.png)
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/luckyRajputana?tab=repositories)
+![<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/luckyRajputana?tab=repositories)
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png">](https://twitter.com/LUCKYCH63212573)
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/luck.chauhan)
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/Luck_Chauhan14/)
