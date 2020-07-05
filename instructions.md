@@ -14,7 +14,3 @@ Please check my portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/po
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 ![](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png)
 ![](https://s3.ap-south-1.amazonaws.com/techleerimages/0f1b1b40-08f0-467d-9a35-0f0fe71e0a43.png)
-
-
-
-
