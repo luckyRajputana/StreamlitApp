@@ -12,4 +12,4 @@ Please check my portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/po
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-![](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png) ![](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png)
+![](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png)
