@@ -10,13 +10,13 @@ train.csv - training annotations which provide segments for defects (ClassId = [
 sample_submission.csv - a sample submission file in the correct format; note, each ImageId 4 rows, one for each of the 4 defect classes
 
 
-### My Social Connect?
+# My Social Connect?
 
 Portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/portfolio/).
-Linkdin   : [![Foo](https://img.icons8.com/bubbles/100/000000/linkedin.png)](www.linkedin.com/in/luckychauhan14994)
-Github    :  [![Foo](https://img.icons8.com/bubbles/100/000000/github.png)](https://github.com/luckyRajputana?tab=repositories)
+Linkdin   : [Linkdin](www.linkedin.com/in/luckychauhan14994)
+Github    :  [Github](https://github.com/luckyRajputana?tab=repositories)
 
 
-### Technologies Used
+# Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
