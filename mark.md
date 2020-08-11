@@ -12,9 +12,9 @@ Each image may have no defects, a defect of a single class, or defects of multip
 
 # Social Connect
 
-> Portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/portfolio/)
-> Linkdin   : [Linkdin](www.linkedin.com/in/luckychauhan14994)
-> Github    :  [Github](https://github.com/luckyRajputana?tab=repositories)
+- Portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/portfolio/)
+- Linkdin   : [Linkdin](www.linkedin.com/in/luckychauhan14994)
+- Github    :  [Github](https://github.com/luckyRajputana?tab=repositories)
 
 
 # Technologies Used
