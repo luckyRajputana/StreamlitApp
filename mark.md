@@ -4,10 +4,10 @@ This application takes the steel image and mark the defected patch on the image 
 Each image may have no defects, a defect of a single class, or defects of multiple classes. For each image you must segment defects of each class (ClassId = [1, 2, 3, 4]). [Steel defect detection](https://github.com/luckyRajputana/Steel-Defect-Detection).
 
 # Files
-train_images/ - folder of training images</br>
-test_images/ - folder of test images (you are segmenting and classifying these images)</br>
-train.csv - training annotations which provide segments for defects (ClassId = [1, 2, 3, 4])</br>
-sample_submission.csv - a sample submission file in the correct format; note, each ImageId 4 rows, one for each of the 4 defect classes
+> train_images/ - folder of training images</br>
+> test_images/ - folder of test images (you are segmenting and classifying these images)</br>
+> train.csv - training annotations which provide segments for defects (ClassId = [1, 2, 3, 4])</br>
+> sample_submission.csv - a sample submission file in the correct format; note, each ImageId 4 rows, one for each of the 4 defect classes
 
 
 # Social Connect
