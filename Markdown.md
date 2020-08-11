@@ -12,7 +12,7 @@ sample_submission.csv - a sample submission file in the correct format; note, ea
 
 # My Social Connect?
 
-Portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/portfolio/)</br>.
+Portfolio :  [Portfolio](https://luckyportfolio.herokuapp.com/portfolio/)</br>
 Linkdin   : [Linkdin](www.linkedin.com/in/luckychauhan14994)</br>
 Github    :  [Github](https://github.com/luckyRajputana?tab=repositories)</br>
 
